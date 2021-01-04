@@ -1,0 +1,11 @@
+body{
+    background-color:#F8F6F4;
+}
+
+#dorothy-portfolio{
+    display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
